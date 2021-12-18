@@ -1,5 +1,9 @@
 # Frontend <img src="https://www.moovin.com.br/assets/images/svg/logo2.svg" width="50">
 
+### Finalizado
+
+Projeto finalizado, procurei deixar o CSS o mais simples possível e com relativamente boa responsividade para diferentes tamanhos de tela.
+
 ### Desafio
 
 Implementar apenas a parte visual do topo de uma loja virtual, seguindo o modelo de layout proposto.
